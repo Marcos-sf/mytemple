@@ -66,7 +66,7 @@ export default function Donate() {
 
                             <div className="text-center">
                                 <p className="text-gray-600 italic">
-                                    *Donations are eligible for tax exemption under 80G. Please contact the office for receipts.
+                                    {/* *Donations are eligible for tax exemption under 80G. Please contact the office for receipts. */}
                                 </p>
                             </div>
                         </div>
